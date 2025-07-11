@@ -1,0 +1,6 @@
+
+--- Simulation Summary (CSP Adaptive Traffic Light Optimized) ---
+Simulation ended at step 500. Total vehicles departed: 192
+Total waiting time: 74285.00s, Average waiting time per vehicle: 386.90s
+Total travel time: 9582.00s, Average travel time per vehicle: 49.91s
+Throughput: 0.3840 vehicles/step

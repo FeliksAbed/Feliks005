@@ -1,0 +1,9 @@
+Simulation Results
+==================
+CSP Solution: {'green_ns': 10, 'green_ew': 10}
+Total Travel Time: 9353.00 seconds
+Average Waiting Time: 2.62 seconds
+Average Queue Density: 15.19 vehicles
+Cycle Efficiency: 50.00%
+Safety Properties: Verified
+Performance Properties: Satisfied

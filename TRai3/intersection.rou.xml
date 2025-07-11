@@ -1,0 +1,53 @@
+<routes>
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+    <vType id="car2" accel="2.0" decel="4.0" sigma="0.6" length="5" maxSpeed="60"/>
+    <vType id="car3" accel="1.8" decel="3.5" sigma="0.7" length="5" maxSpeed="50"/>
+
+    <flow id="flow0" type="car" from="-gneE0" to="gneE2" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow0_1" type="car" from="-gneE0" to="gneE2" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow0_2" type="car" from="-gneE0" to="gneE2" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow3" type="car" from="-gneE1" to="gneE3" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow3_1" type="car" from="-gneE1" to="gneE3" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow3_2" type="car" from="-gneE1" to="gneE3" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow6" type="car" from="-gneE2" to="gneE0" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow6_1" type="car" from="-gneE2" to="gneE0" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow6_2" type="car" from="-gneE2" to="gneE0" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow9" type="car" from="-gneE3" to="gneE1" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow9_1" type="car" from="-gneE3" to="gneE1" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+    <flow id="flow9_2" type="car" from="-gneE3" to="gneE1" begin="0.0" end="3600.0" vehsPerHour="250" departLane="random" departSpeed="random"/>
+
+    <flow id="flow1" type="car2" from="-gneE0" to="gneE2" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow1_1" type="car2" from="-gneE0" to="gneE2" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow1_2" type="car2" from="-gneE0" to="gneE2" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow4" type="car2" from="-gneE1" to="gneE3" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow4_1" type="car2" from="-gneE1" to="gneE3" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow4_2" type="car2" from="-gneE1" to="gneE3" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow7" type="car2" from="-gneE2" to="gneE0" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow7_1" type="car2" from="-gneE2" to="gneE0" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow7_2" type="car2" from="-gneE2" to="gneE0" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow10" type="car2" from="-gneE3" to="gneE1" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow10_1" type="car2" from="-gneE3" to="gneE1" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+    <flow id="flow10_2" type="car2" from="-gneE3" to="gneE1" begin="300.0" end="3600.0" vehsPerHour="300" departLane="random" departSpeed="random"/>
+
+    <flow id="flow2" type="car3" from="-gneE0" to="gneE2" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow2_1" type="car3" from="-gneE0" to="gneE2" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow2_2" type="car3" from="-gneE0" to="gneE2" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow5" type="car3" from="-gneE1" to="gneE3" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow5_1" type="car3" from="-gneE1" to="gneE3" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow5_2" type="car3" from="-gneE1" to="gneE3" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow8" type="car3" from="-gneE2" to="gneE0" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow8_1" type="car3" from="-gneE2" to="gneE0" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow8_2" type="car3" from="-gneE2" to="gneE0" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    
+    <flow id="flow11" type="car3" from="-gneE3" to="gneE1" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow11_1" type="car3" from="-gneE3" to="gneE1" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+    <flow id="flow11_2" type="car3" from="-gneE3" to="gneE1" begin="600.0" end="3600.0" vehsPerHour="200" departLane="random" departSpeed="random"/>
+</routes>

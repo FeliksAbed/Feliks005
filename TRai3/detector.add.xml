@@ -1,0 +1,14 @@
+<additional>
+    <e1Detector id="det_-gneE0_0" lane="-gneE0_0" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE0_1" lane="-gneE0_1" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE0_2" lane="-gneE0_2" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE3_0" lane="-gneE3_0" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE3_1" lane="-gneE3_1" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE3_2" lane="-gneE3_2" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE2_0" lane="-gneE2_0" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE2_1" lane="-gneE2_1" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE2_2" lane="-gneE2_2" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE1_0" lane="-gneE1_0" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE1_1" lane="-gneE1_1" pos="2.0" freq="60.0" file="detector_output.xml"/>
+    <e1Detector id="det_-gneE1_2" lane="-gneE1_2" pos="2.0" freq="60.0" file="detector_output.xml"/>
+</additional>
